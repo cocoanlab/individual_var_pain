@@ -1,5 +1,5 @@
 <h1> Individual Variability in Brain Representations of Pain: data and code  </h1> 
-This repository contains basic data and example code for paper
+This repository contains basic data and example code for the following publication: 
 
 <b>"Individual Variability in Brain Representations of Pain"</b>, Lada Kohoutová, Lauren Y. Atlas, Christian Büchel, Jason T. Buhle, Stephan Geuter, Marieke Jepma, Leonie Koban, Anjali Krishnan, Dong Hee Lee, Sungwoo Lee, Mathieu Roy, Scott M. Schafer, Liane Schmidt, Tor D. Wager, Choong-Wan Woo, 2022, <i>Nature Neuroscience</i>
 
